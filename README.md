@@ -13,7 +13,7 @@ High-level description of the codification mission. Invites scrutiny and iterati
 
 2. Why:  
 
-    0. Codification will:
+    0. Codification will make:
 
     1. Law better
     2. Economics better
